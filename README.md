@@ -14,7 +14,7 @@ cauan: gerente de projetos. <br> <br>
 10/03/2022 08:52h - projeto em andamento :sleeping: <br>
 05/04/22 16:23h - a fixa caiu, tamo fudido :sob: <br>
 28/04/22 07:52h - tamo no backend, não sabemo mais oq fazer fml :sob: <br>
-04/05/22 09:55  - tamo no css, não sabemos como colocar no handlebars :sob <br>
+04/05/22 09:55  - tamo no css, não sabemos como colocar no handlebars :sob: <br>
 
 link do projeto no ar: [clique aqui](https://w7.pngwing.com/pngs/147/495/png-transparent-smiley-thumb-signal-emoticon-meme-smiley-love-miscellaneous-face.png) <br>
 **- obs:** se a gente chegou até o deploy do sistema, o link não vai ser um emoji!
