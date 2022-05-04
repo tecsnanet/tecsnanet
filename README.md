@@ -21,7 +21,7 @@ link do projeto no ar: [clique aqui](https://w7.pngwing.com/pngs/147/495/png-tra
 
 ~~~javascript
 var anotaçoesDeDesespero = {
-  diaTresDoQuatro: 'meu nao aguento mais css',
+  diaTresDoQuatro: 'meu deus nao aguento mais css',
   diaCincoDoQuatro: 'demo fé que se deus quiser o banco de dados vai da errado',
 };
 ~~~
