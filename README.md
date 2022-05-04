@@ -12,7 +12,7 @@ cauan: gerente de projetos. <br> <br>
 
 23/02/22 15:34h - início do projeto :smiley: <br>
 10/03/2022 08:52h - projeto em andamento :sleeping: <br>
-05/04/22 16:23h - a fixa caiu, tamo fudido :sob: <br>
+05/04/22 16:23h - a ficha caiu, tamo fudido :sob: <br>
 28/04/22 07:52h - tamo no backend, não sabemo mais oq fazer fml :sob: <br>
 04/05/22 09:55  - tamo no css, não sabemos como colocar no handlebars :sob: <br>
 
