@@ -4,7 +4,6 @@
 gustavo: programador; <br>
 raquel: dba; <br>
 giovana: designer; <br>
-ana vitoria: analista de sistema; <br>
 cauan: gerente de projetos. <br> <br>
 **- projeto:** boletim digital (base técnica) :computer: <br>
 **- matéria:** desenvolvimento de software - metodologias ágeis (scrum) :blue_book: <br>
